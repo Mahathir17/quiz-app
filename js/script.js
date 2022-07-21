@@ -102,7 +102,7 @@ function showQuestions(index) {
  que_text.innerHTML = que_tag;
 option_list.innerHTML = option_tag;
 const total_que = document.querySelector(".total_que");
-let total_queTag  = '<p>' + questions[index].numb + ' Of 5 </p>'
+let total_queTag  = '<p>' + questions[index].numb + ' Of 6 </p>'
 total_que.innerHTML = total_queTag;
 
 
