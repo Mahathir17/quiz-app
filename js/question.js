@@ -67,5 +67,104 @@ let questions = [
           "eXamine Multiple Language"
         ]
       },
+      {
+        numb: 7,
+        question: "Which one of the following is not an official language of the United Nations?",
+        answer: "Portuguese",
+        options: [
+          "Arabic",
+          "Chinese",
+          "Portuguese",
+          "Spanish"
+        ]
+      },
+      {
+        numb: 8,
+        question: " On July….., man walked on the Moon for the first time.",
+        answer: "20th",
+        options: [
+          "20th",
+          "21th",
+          "19th",
+          "18th"
+        ]
+      },
+      {
+        numb: 9,
+        question: "Which planet is known as the 'Watery Planet' ?",
+        answer: "Earth",
+        options: [
+          "Mercury",
+          "Earth",
+          "Mars",
+          "Jupiter"
+        ]
+      },
+      {
+        numb: 10,
+        question: " Halley's comet appears once in a period of ________",
+        answer: "76 years",
+        options: [
+          "24 years",
+          "32 years",
+          "76 years",
+          "84 years"
+        ]
+      },
+      {
+        numb: 11,
+        question: "Which protocol provides e-mail facility among different hosts?",
+        answer: "SMTP",
+        options: [
+          "FTP",
+          "SMTP",
+          "TELNET",
+          "SNMP"
+        ]
+      },
+      {
+        numb: 12,
+        question: "Fifth generation computers are based on",
+        answer: "Artificial Intelligence",
+        options: [
+          "Artificial Intelligence",
+          "Programming Intelligence",
+          "System Knowledge",
+          "VVLSI"
+        ]
+      },
+      {
+        numb: 13,
+        question: "If the displayed system time and date is wrong, you can reset it using",
+        answer: "Control panel",
+        options: [
+          "Write",
+          "Calendar",
+          "Write file",
+          "Control panel"
+        ]
+      },
+      {
+        numb: 14,
+        question: "A Microsoft Windows is a(n)",
+        answer: "Operating system",
+        options: [
+          "Operating system",
+          "Graphic program",
+          "Word Processing",
+          "Database program"
+        ]
+      },
+      {
+        numb: 15,
+        question: "ATM means",
+        answer: "Automated Teller Machine",
+        options: [
+          "Automatic Teller Machine",
+          "All Time Money",
+          "Automated Teller Machine",
+          "Any Time Money"
+        ]
+      },
       
 ]
